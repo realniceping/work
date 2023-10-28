@@ -1,0 +1,3 @@
+- Собрать библиотеку с PRF = compile_lib.bat
+- Собрать тесты для PRF = compile_test.bat
+- Собрать все = compile_all.bat
