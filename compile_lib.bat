@@ -1,0 +1,1 @@
+g++ prf.cpp -o prf.lib -shared
